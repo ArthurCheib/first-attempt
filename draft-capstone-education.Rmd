@@ -1,0 +1,24 @@
+---
+title: "Capstone Project"
+author: "Education Policy"
+date: "DPSS - Summer 2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This is the **Education Policy** capstone project. Here, we will try to estimate the impact of a public policy designed and introduced by the City of Chicago, named [Safe Passage Program](https://www.cps.edu/services-and-supports/student-safety-and-security/safe-passage-program/). The main idea behind it is *"to provide a positive, trusted adult presence for students as they travel to and from school."*
+
+This project was designed for you to use the programming skills and causal inference techniques learned during DPSS. Thus, we expect you to put everything you've learned together and, with the assistance of Prof. Austin the DPSS's TAs, leverage your Data Analytics and Programming mastery.
+
+## Question 1
+
+For this Capstone you will be using the following datasets:
+
+1. [Chicago Public Schools - Safe Passage Routes (here we only provide the link)](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Safe-Passage-Routes-SY1415/4s9i-vyw7)
+2. 
+
